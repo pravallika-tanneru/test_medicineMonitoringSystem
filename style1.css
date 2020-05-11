@@ -1,0 +1,48 @@
+*{
+	font-family: montserrat;
+}
+
+/*services-section*/
+
+#services_offered{
+	margin-top: 30px;
+	
+}
+.services-column{
+	padding: 20px;
+	text-align: center;
+}
+.services-content{
+	margin-top: 50px;
+}
+
+/*gallery-section*/
+#gallery{
+	margin-top: 100px;
+}
+.img-container{
+	text-align: center;
+}
+button{
+	margin-top: 100px;
+}
+/*footer*/
+
+footer{
+	background-color: black;
+	color: #ffffff;
+	margin-top: 50px;
+	padding: 20px;
+
+}
+.footer-link{
+	color:#ffffff;
+
+}
+ul{
+	list-style: none;
+}
+
+.footer-link:hover{
+	color: #ffffff;
+}
